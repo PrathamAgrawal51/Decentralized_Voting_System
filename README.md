@@ -1,6 +1,7 @@
 # 🔐 Decentralized-Voting-System-Using-Ethereum-Blockchain
 
-### Deployed Link: 
+### Deployed Link: https://decentralized-voting-system-using-ethereum-blockchain-goh3.vercel.app/
+###
 #### This project is created and deployed for Web 3.0 Online 72 Hours Hackathon by BITS Pilani
 #### Team Players:
 - Pratham Agrawal

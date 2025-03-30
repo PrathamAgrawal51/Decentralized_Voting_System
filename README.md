@@ -1,7 +1,7 @@
 # 🔐 Decentralized-Voting-System-Using-Ethereum-Blockchain
 
 ### Deployed Link: 
-#### This project is created and deployed for Web 3.0 Online Hackathon by BITS Pilani
+#### This project is created and deployed for Web 3.0 Online 72 Hours Hackathon by BITS Pilani
 #### Team Players:
 - Pratham Agrawal
 - Pradyumn Waghmare

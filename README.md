@@ -1,4 +1,4 @@
-# Decentralized-Voting-System-Using-Ethereum-Blockchain
+# 🔐 Decentralized-Voting-System-Using-Ethereum-Blockchain
 
 ### Deployed Link: 
 #### This project is created and deployed for Web 3.0 Online Hackathon by BITS Pilani
